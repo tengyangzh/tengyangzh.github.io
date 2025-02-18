@@ -29,6 +29,9 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+- *2024.05*: [**Champion**](https://xiaobao.sysu.edu.cn/phone/content.aspx?id=5120), ISC'25 International Supercomputing Competition
+- *2022.10*: [**Champion**](https://cse.sysu.edu.cn/eclc/article/376), SC'22 International Supercomputing Competition
+
 # 📝 Publications 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
