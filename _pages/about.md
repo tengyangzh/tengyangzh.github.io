@@ -20,7 +20,7 @@ redirect_from:
 
 I am a first-year MA.Eng student of CSE at Sun Yat-sen University mentored by Assoc. Prof. [Xianwei Zhang](https://xianweiz.github.io/) and Prof. [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong). I obtained my B.E. degree in 2024 from SYSU as well.
 
-My primary research interest lies in the field of heterogeneous systems and compilation. Specially now I am focusing on LLVM, ARMv9 and Applications Optimization. If you are interested in discussing with me, feel free to drop me an email (zhengty26@mail2.sysu.edu.cn, 1051655293@qq.com) or reach out via WeChat (ID: sumuzhe317).
+My primary research interest lies in High-Performance Computing (HPC) and compilation. Currently, I am focusing on LLVM, ARMv9, and Application Optimization. If you are interested in communicating with me, feel free to email me (zhengty26@mail2.sysu.edu.cn, 1051655293@qq.com) or reach out via WeChat (ID: sumuzhe317).
 
 
 # 🔥 News
@@ -46,7 +46,7 @@ My primary research interest lies in the field of heterogeneous systems and comp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 - \[TPDS'24\] [Critique of “Productivity, Portability, Performance Data-Centric Python” by SCC Team From Sun Yat-sen University](https://ieeexplore.ieee.org/abstract/document/10457928/)
-  - Huang, Han and **Zheng, Tengyang(Co-first author)** and Yang, Tianxing and Ye, Yang and Liu, Siran and Tang, Zhe and Lu, Shengyou and Feng, Guangnan and Chen, Zhiguang and Huang, Dan
+  - H.Han, **T.Zheng(Co-first author)**, T.Yang, Y.Ye, S.Liu, Z.Tang, S.Lu, G.Feng, Z.Chen and D.Huang
 
 # 🎖 Honors and Awards
 <!--
@@ -68,14 +68,15 @@ My primary research interest lies in the field of heterogeneous systems and comp
 -->
 - *2024.09 - now*, Master, Sun Yat-sen University, Guangzhou
 - *2020.09 - 2024.06*, Undergraduate, Sun Yat-sen University (8/209), Guangzhou
+
 <!--
-# 💬 Invited Talks
+ 💬 Invited Talks
 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 <!--
-# 💻 Internships
+ 💻 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
