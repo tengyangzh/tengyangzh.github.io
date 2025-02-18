@@ -51,6 +51,10 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - \[TPDS'24\] [Critique of “Productivity, Portability, Performance Data-Centric Python” by SCC Team From Sun Yat-sen University](https://ieeexplore.ieee.org/abstract/document/10457928/)
   - H.Han, **T.Zheng(Co-first author)**, T.Yang, Y.Ye, S.Liu, Z.Tang, S.Lu, G.Feng, Z.Chen and D.Huang
 
+# 🌞 Academic Services
+- *2025.02-2025.07* Teaching Assistant: [Compilation Principle & Construction](https://yatcc.github.io/) at SUN YAT-SEN University.
+- *2024.02-2024.07* Teaching Assistant: [Compilation Principle & Construction](https://arcsysu.github.io/teach/dcs290/s2024.html) at SUN YAT-SEN University.
+
 # 🎖 Honors and Awards
 <!--
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
