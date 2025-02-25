@@ -76,6 +76,10 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2024.09 - now*, Master, Sun Yat-sen University, Guangzhou
 - *2020.09 - 2024.06*, Undergraduate, Sun Yat-sen University (8/209), Guangzhou
 
+# 💻 Projects
+- *2024.01 - 2024.06*, [YatCC](https://github.com/arcsysu/YatCC.git)
+- *2025.01 - now* YatCC-OL
+
 <!--
  💬 Invited Talks
 
