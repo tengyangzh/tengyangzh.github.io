@@ -20,7 +20,11 @@ redirect_from:
 
 I am a first-year MA.Eng student of CSE at Sun Yat-sen University mentored by Assoc. Prof. [Xianwei Zhang](https://xianweiz.github.io/) and Prof. [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong). I obtained my B.E. degree in 2024 from SYSU as well.
 
-My primary research interest lies in High-Performance Computing (HPC) and compilation. Currently, I am focusing on LLVM, ARMv9, and Application Optimization. If you are interested in communicating with me, feel free to email me (zhengty26@mail2.sysu.edu.cn, 1051655293@qq.com) or reach out via WeChat (ID: sumuzhe317).
+My primary research interest lies in High-Performance Computing (HPC) and compilation. Currently, I am focusing on LLVM, ARMv9, and Application Optimization. If you are interested in communicating with me, feel free to email me or reach out via WeChat.
+
+- Mail 1: `echo emhlbmd0eTI2QG1haWwyLnN5c3UuZWR1LmNu | base64 -d`
+- Mail 2: `echo MTA1MTY1NTI5M0BxcS5jb20= | base64 -d`
+- WeChat: `echo c3VtdXpoZTMxNw== | base64 -d`
 
 
 # 🔥 News
