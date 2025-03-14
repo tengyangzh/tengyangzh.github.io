@@ -64,7 +64,7 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-- *2024.05* **Champion**, ISC'25 International Supercomputing Competition
+- *2024.05* **Champion**, ISC'24 International Supercomputing Competition
 - *2023.05* Advance to the finals (fourth place), ISC'23 International Supercomputing Competition
 - *2022.12* Advance to the Finals, IPCC'22 International Parallel Computing Challenge
 - *2022.10* **Champion**, SC'22 International Supercomputing Competition
