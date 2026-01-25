@@ -33,6 +33,7 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+- 2025.05 - 2026.02*, [Moonshot/Kimi](https://www.moonshot.cn/), China.
 - *2024.05*: [**Champion**](https://xiaobao.sysu.edu.cn/phone/content.aspx?id=5120), ISC'25 International Supercomputing Competition
 - *2022.10*: [**Champion**](https://cse.sysu.edu.cn/eclc/article/376), SC'22 International Supercomputing Competition
 
@@ -90,7 +91,3 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
-# 💻 Internships
-
-- *2025.05 - 2026.02*, [Moonshot/Kimi](https://www.moonshot.cn/), China.
