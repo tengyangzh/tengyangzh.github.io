@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a first-year MA.Eng student of CSE at Sun Yat-sen University mentored by Assoc. Prof. [Xianwei Zhang](https://xianweiz.github.io/) and Prof. [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong). I obtained my B.E. degree in 2024 from SYSU as well.
+I am a second-year MA.Eng student of CSE at Sun Yat-sen University mentored by Assoc. Prof. [Xianwei Zhang](https://xianweiz.github.io/) and Prof. [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong). I obtained my B.E. degree in 2024 from SYSU as well.
 
 My primary research interest lies in High-Performance Computing (HPC) and compilation. Currently, I am focusing on LLVM, ARMv9, and Application Optimization. If you are interested in communicating with me, feel free to email me or reach out via WeChat.
 
@@ -33,7 +33,7 @@ My primary research interest lies in High-Performance Computing (HPC) and compil
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-- 2025.05 - 2026.02*, [Moonshot/Kimi](https://www.moonshot.cn/), China.
+- *2025.05 - 2026.02*, [Moonshot/Kimi](https://www.moonshot.cn/), China.
 - *2024.05*: [**Champion**](https://xiaobao.sysu.edu.cn/phone/content.aspx?id=5120), ISC'25 International Supercomputing Competition
 - *2022.10*: [**Champion**](https://cse.sysu.edu.cn/eclc/article/376), SC'22 International Supercomputing Competition
 
